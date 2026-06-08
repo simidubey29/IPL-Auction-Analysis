@@ -126,3 +126,9 @@ Python Programming
 Simi Dubey
 
 Aspiring Data Scientist | Python | SQL | Power BI | Data Analytics
+
+Connect With Me
+GitHub: https://github.com/simidubey29
+LinkedIn: https://linkedin.com/in/simi-dubey
+
+⭐ If you found this project useful, consider giving it a star!
