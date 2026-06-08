@@ -100,6 +100,26 @@ python analysis.py
 * Average player valuation by team
 
 ---
+💡 Future Improvements
+Use real IPL auction datasets
+Add player nationality analysis
+Perform year-wise auction trend analysis
+Build interactive dashboards using Streamlit
+Create Power BI dashboard version
+Add machine learning models for player price prediction
+
+---
+
+🎓 Skills Demonstrated
+Data Cleaning
+Exploratory Data Analysis (EDA)
+Data Visualization
+Pandas GroupBy Operations
+Statistical Analysis
+Sports Analytics
+Python Programming
+
+---
 
 ## 👨‍💻 Author
 
